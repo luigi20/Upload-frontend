@@ -22,3 +22,4 @@ Esse repósitorio surgiu da curiosidade em saber como fazer upload de arquivos c
   <p>Foi utilizada a cloud da AWS para guardar as imagens da aplicação </p>
 </p>
 
+  <a href = "https://uploadjs-frontend.herokuapp.com/"><img src="https://img.shields.io/badge/-heroku-%230077B5?color=blueviolet&style=for-the-badge&logo=heroku&logoColor=blueviolet" target="_blank"></a>
